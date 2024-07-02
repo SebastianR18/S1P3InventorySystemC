@@ -4,7 +4,9 @@
 EJERCICIO DE PROGRAMACIÓN
 
 Actividad elaborado por:     Carlos Andrés Guaita
+
 RESULTADO DE APRENDIZAJE DE LA CARRERA:
+
 RC2 Aplica el diseño de ingeniería para producir soluciones que satisfagan necesidades específicas teniendo en cuenta los ámbitos de la salud pública, la seguridad y el bienestar, así como los factores globales, culturales, sociales, ambientales y económicos.
 
 # Indicadores de desempeño: 
